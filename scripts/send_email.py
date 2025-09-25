@@ -22,8 +22,10 @@ email_data = {
         {
             "to": [
                 {"email": "natanael.farret@hertz.com"},
+                {"email": "jgroll@hertz.com"},
+                {"email": "SWagner@hertz.com"}
             ],
-            "subject": "Weekly Press Review"
+            "subject": "24/7 Weekly Press Review"
         }
     ],
     "from": {"email": "natanael.farret@hotmail.com"},
